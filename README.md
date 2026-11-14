@@ -88,11 +88,23 @@
 
 > كل لعبة لها نتائجها وعدّاداتها وألوانها بشكل مستقل، فنتائج الاستكشاف لا تختلط بنتائج «أين الدولة؟». ويمكنك مسح نتائج كل لعبة على حدة من الإعدادات.
 
+### التحدي اليومي والجولات السريعة
+
+- **أزرار في أسفل الصفحة الرئيسية** للتحدي اليومي والجولة السريعة، وأيقونة الإحصائيات في الأعلى بجانب الترس والنرد. وأثناء الجولة تختفي عدّادات وألوان الاستكشاف و«أين الدولة؟» وترجع بعدها.
+- **التحدي اليومي:** 10 دول مختلفة كل يوم، وهي نفسها لكل اللاعبين في نفس اليوم. تلعبه مرة واحدة يوميًا، وتأخذ **نتيجة قابلة للمشاركة** (نص قصير بمربعات 🟩🟥 تنسخه وتنشره) مع **عدّاد أيام متواصلة** 🔥.
+- **الجولة السريعة:** 10 أسئلة بعدها **شاشة نتيجة** فيها درجتك والدول التي أخطأت فيها مع عواصمها، ومعها **مؤقت اختياري** (15 ثانية للسؤال).
+- **بطاقة نتيجة** كصورة جاهزة للنشر، تحمّلها بزر واحد.
+- **أنواع الأسئلة:** الاسم ← الخريطة، العلم ← الخريطة، العاصمة ← الخريطة، **اختيار من متعدد** (أربع إجابات)، أو **مختلط**.
+- **المستويات:** كامل، أو متوسط، أو سهل (الدول المشهورة فقط)، وتنطبق على الجولة السريعة.
+- **الإحصائيات:** دقتك في كل قارة، أضعف قارة عندك، عدد الدول التي لم تجرّبها أبدًا، وأفضل نتيجة وعدد الجولات.
+- **ثيم فاتح** بجانب الداكن من الإعدادات.
+
 ### الإعدادات
 
 من أيقونة الترس في أعلى الصفحة:
 
-- **اللغة**: العربية أو English.
+- **English**: مفتاح لتبديل اللغة (العربية هي الأساس).
+- **الثيم الفاتح**: مفتاح للتبديل بين الداكن والفاتح.
 - **وضع التدريب**: استكشاف، أين الدولة؟، مراجعة الأخطاء.
 - **القارة**: تدريب على قارة محددة أو كل العالم.
 - **إخفاء اسم الدولة**: يضيف الاسم إلى ما تخمّنه.
@@ -209,11 +221,23 @@ The whole site is **a single HTML file** with no libraries, no server and no int
 
 > Each game keeps its own results, counters and colours, so Explore never mixes with Find the country. You can clear each game's results separately from Settings.
 
+### Daily challenge and quick rounds
+
+- **Buttons at the bottom of the home screen** for the daily challenge and the quick round, and a stats icon at the top next to the gear and dice. During a round the Explore and Find progress counters and map colours are hidden, and they come back afterwards.
+- **Daily challenge:** 10 different countries every day, the same for every player on the same day. You play it once a day and get a **shareable result** (a short text with 🟩🟥 squares to copy and post) plus a **day streak** 🔥.
+- **Quick round:** 10 questions followed by a **results screen** with your score and the countries you missed, with their capitals, plus an **optional timer** (15 seconds per question).
+- **Result card** as a ready-to-post image, downloadable with one button.
+- **Question types:** name → map, flag → map, capital → map, **multiple choice** (four answers), or **mixed**.
+- **Levels:** All, Medium, or Easy (well-known countries only), applied to quick rounds.
+- **Stats:** accuracy per continent, your weakest continent, how many countries you have never tried, best score and rounds played.
+- **Light theme** next to the dark one, from Settings.
+
 ### Settings
 
 Open them with the gear icon at the top:
 
-- **Language**: العربية or English.
+- **English**: a switch for the language (Arabic is the default).
+- **Light theme**: a switch between dark and light.
 - **Practice mode**: Explore, Find the country, Review mistakes.
 - **Continent**: practise one continent or the whole world.
 - **Hide country name**: adds the name to what you have to guess.
